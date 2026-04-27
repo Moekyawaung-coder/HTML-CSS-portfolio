@@ -1,0 +1,6 @@
+15-HTML-CSS-Portfolio/
+├─ index.html
+├─ style.css
+├─ assets/
+│  └─ profile.jpg   ← your profile image
+└─ README.md
